@@ -1,5 +1,6 @@
 public class ForLoop {
   public static void main(String[] args) {
+    // here i can be a pre-declared variable also, in that caaw 'int' won't be required
     for (int i = 0; i < 10; i += 1) {
       System.out.println(i);
     }
